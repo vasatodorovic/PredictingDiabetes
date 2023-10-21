@@ -1,4 +1,4 @@
-# Project: Predicting Diabetes Risk in Pima Indian Women
+# Predicting Diabetes Risk in Pima Indian Women
 
 ## Project Description
 
